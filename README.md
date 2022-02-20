@@ -1,1 +1,1 @@
-TinDog Starting Files
+Single page personal website
